@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Hab1Controls.qml</file>
+        <file>Hab2Controls.qml</file>
+	<file>GlobalControls.qml</file>
+    </qresource>
+</RCC>
